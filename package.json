@@ -16,7 +16,6 @@
   "license": "MIT",
   "devDependencies": {
     "@types/jest": "^19.2.2",
-    "@types/lodash.zipwith": "^4.2.2",
     "@types/react": "^15.0.23",
     "@types/react-dom": "^15.5.0",
     "@types/react-hot-loader": "^3.0.1",
@@ -40,7 +39,6 @@
     "webpack-merge": "^4.1.0"
   },
   "dependencies": {
-    "lodash.zipwith": "^4.2.0",
     "normalize.css": "^6.0.0",
     "react": "^15.5.4",
     "react-dom": "^15.5.4",
