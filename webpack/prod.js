@@ -17,7 +17,7 @@ module.exports = {
   output: {
     path: resolve(__dirname, '..', 'build'),
     filename: '[chunkhash].[name].js',
-    publicPath: '/',
+    publicPath: '.',
   },
 
    plugins: [
